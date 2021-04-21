@@ -1,8 +1,7 @@
-# Data Augmentation for Colon Polyp Detection: A systematic Study
+# Data Augmentation for Colon Polyp Detection: A Systematic Study
 
-We are open sourcing our systematic study on the performance of different data augmentation methods for colon polyp detection.
+To promote the development of medical image processing research, we are open sourcing our systematic study on the performance of different data augmentation methods for colon polyp detection.
 
 Learn more here: https://blog.ai.aioz.io/blog/polyp-detection/
 
-
-```Copyright © 2021 AIOZ AI```
+```AIOZ © 2021 All rights reserved.```
